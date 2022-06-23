@@ -1,0 +1,11 @@
+Book{name='阿衰', author='猫小乐', price=5, category='漫画', state=true}
+Book{name='爆笑校园', author='豌豆', price=6, category='漫画', state=true}
+Book{name='小茗同学', author='小明', price=7, category='杂志', state=true}
+Book{name='测试', author='测试', price=10, category='测试', state=true}
+Book{name='青春咖啡馆', author='帕特里克', price=15, category='文学', state=true}
+Book{name='三体', author='刘慈欣', price=16, category='科幻', state=true}
+Book{name='文化苦旅', author='余秋雨', price=21, category='文学', state=true}
+Book{name='红楼梦', author='曹雪芹', price=11, category='名著', state=true}
+Book{name='水浒传', author='施耐庵', price=12, category='名著', state=true}
+Book{name='三国演义', author='罗贯中', price=13, category='名著', state=true}
+Book{name='西游记', author='吴承恩', price=14, category='名著', state=true}
